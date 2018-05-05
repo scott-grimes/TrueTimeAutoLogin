@@ -1,0 +1,15 @@
+// Edit this file as follows. write your login information on the first two lines
+// which are labeled LOGIN and PASSWORD
+// each day of the week can have 3 different labels: NONE, TUTOR, or LEAD. 
+// NONE means you will not be logged in for the day, TUTOR means you will be logged in for tutoring
+// and LEAD means you will logged in for LEAD. If the day is not NONE, you must specify the 
+// login and logout time using the 24hour clock, with a colon ":" between the hours and minutes
+LOGIN joe.smith
+PASSWORD mypass123
+SUNDAY NONE
+MONDAY NONE
+TUESDAY TUTOR 16:00 17:30
+WEDNESDAY NONE
+THURSDAY LEAD 16:00 17:30
+FRIDAY NONE
+SATURDAY NONE
